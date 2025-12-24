@@ -1,0 +1,6 @@
+librosa
+whisper
+fastdtw
+jiwer
+torch
+torchaudio
